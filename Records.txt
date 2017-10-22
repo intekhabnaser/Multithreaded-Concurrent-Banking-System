@@ -1,0 +1,10 @@
+101 Peter 16000
+102 John 1200
+103 Gambo 11000
+104 Hanna 23000
+105 Shakira 1800
+106 Euler 4321
+107 Sonia 3326
+108 Bran 877
+109 Mohini 6497
+110 Julio 5555
